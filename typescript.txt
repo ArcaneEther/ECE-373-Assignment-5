@@ -1,0 +1,46 @@
+Script started on Mon 21 May 2018 03:42:59 PM PDT
+]0;jeremy@ECE373: ~/Desktop/ECE-373/Assignment-5[01;32mjeremy@ECE373[00m:[01;34m~/Desktop/ECE-373/Assignment-5[00m$ sudo ./ledmon -s 0000:00:03.0 -Lclear[Ksudo ./ledmon -s 0000:00:03.0 -Lclear[Ksudo ./ledmon -s 0000:00:03.0 -Llspci -v[Ksudo ./ledmon[K[K[K[K[K[K[K/pci_userspace 
+[sudo] password for jeremy: 
+LED Status: 0x602
+Pass 1
+Pass 2
+Pass 3
+Pass 4
+Pass 5
+Good Packets: 0
+]0;jeremy@ECE373: ~/Desktop/ECE-373/Assignment-5[01;32mjeremy@ECE373[00m:[01;34m~/Desktop/ECE-373/Assignment-5[00m$ sudo ./pci_userspace 
+LED Status: 0x602
+Pass 1
+Pass 2
+Pass 3
+Pass 4
+Pass 5
+Good Packets: 12
+]0;jeremy@ECE373: ~/Desktop/ECE-373/Assignment-5[01;32mjeremy@ECE373[00m:[01;34m~/Desktop/ECE-373/Assignment-5[00m$ sudo ./pci_userspace 
+LED Status: 0x602
+Pass 1
+Pass 2
+Pass 3
+Pass 4
+Pass 5
+Good Packets: 0
+]0;jeremy@ECE373: ~/Desktop/ECE-373/Assignment-5[01;32mjeremy@ECE373[00m:[01;34m~/Desktop/ECE-373/Assignment-5[00m$ sudo ./pci_userspace 
+LED Status: 0x602
+Pass 1
+Pass 2
+Pass 3
+Pass 4
+Pass 5
+Good Packets: 0
+]0;jeremy@ECE373: ~/Desktop/ECE-373/Assignment-5[01;32mjeremy@ECE373[00m:[01;34m~/Desktop/ECE-373/Assignment-5[00m$ sudo ./pci_userspace 
+LED Status: 0x602
+Pass 1
+Pass 2
+Pass 3
+Pass 4
+Pass 5
+Good Packets: 1
+]0;jeremy@ECE373: ~/Desktop/ECE-373/Assignment-5[01;32mjeremy@ECE373[00m:[01;34m~/Desktop/ECE-373/Assignment-5[00m$ exit
+exit
+
+Script done on Mon 21 May 2018 03:45:57 PM PDT

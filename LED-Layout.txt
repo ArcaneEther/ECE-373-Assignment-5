@@ -1,0 +1,33 @@
+  RR LED3   RR LED2   RR LED1   RR LED0
+33RR 2222 22RR 1111 11RR 11     RR
+10RR 7654 32RR 9876 54RR 1098 76RR 3210
+
+
+LED0 On:
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx 1110
+
+LED0 Off:
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx 1111
+
+LED1 On:
+xxxx xxxx xxxx xxxx xxxx 1110 xxxx xxxx
+
+LED1 Off:
+xxxx xxxx xxxx xxxx xxxx 1111 xxxx xxxx
+
+LED2 On:
+xxxx xxxx xxxx 1110 xxxx xxxx xxxx xxxx
+
+LED2 Off:
+xxxx xxxx xxxx 1111 xxxx xxxx xxxx xxxx
+
+LED3 On:
+xxxx 1110 xxxx xxxx xxxx xxxx xxxx xxxx
+
+LED3 Off:
+xxxx 1111 xxxx xxxx xxxx xxxx xxxx xxxx
+
+
+1010 1010 1010 0101 0100 1010 1010 1001
+
+
